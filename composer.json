@@ -1,0 +1,12 @@
+{
+    "name": "brainstation/magento-cmsduplicator",
+    "type": "magento-module",
+    "description": "Module adds additional button to duplicate cms blocks and pages in backend.",
+    "homepage": "https://github.com/BrainStation/Magento_CmsDuplicator",
+    "authors": [
+        {
+            "name": "BrainStation: Mike Becker",
+            "email": "mike@brainstation"
+        }
+    ]
+}
